@@ -1,0 +1,52 @@
+#########################################################
+# Syntax Coloring Map for TODO: Add name                #
+#########################################################
+# Class
+#########################################################
+
+SparkFunBMV080 KEYWORD1
+SparkFunBMV080SPI KEYWORD1
+
+#########################################################
+# Methods and Functions
+#########################################################
+
+begin KEYWORD2
+init KEYWORD2
+isConnected KEYWORD2
+driverVersion KEYWORD2
+open KEYWORD2
+close KEYWORD2
+reset KEYWORD2
+ID KEYWORD2
+setMode KEYWORD2
+PM10 KEYWORD2
+PM25 KEYWORD2
+PM1 KEYWORD2
+isObstructed KEYWORD2
+setSensorValue KEYWORD2
+readSensor KEYWORD2
+dataAvailable KEYWORD2
+dutyCyclingPeriod KEYWORD2
+setDutyCyclingPeriod KEYWORD2
+volumetricMassDensity KEYWORD2
+setVolumetricMassDensity KEYWORD2
+integrationTime KEYWORD2
+setIntegrationTime KEYWORD2
+distributionId KEYWORD2
+setDistributionId KEYWORD2
+doObstructionDetection KEYWORD2
+setDoObstructionDetection KEYWORD2
+doVibrationFiltering KEYWORD2
+setDoVibrationFiltering KEYWORD2
+measurementAlgorithm KEYWORD2
+setMeasurementAlgorithm KEYWORD2
+
+#########################################################
+# Constants
+#########################################################
+
+SFE_BMV080_DEFAULT_ADDRESS LITERAL1
+SFE_BMV080_DEFAULT_IRQ_PIN LITERAL1
+SFE_BMV080_MODE_CONTINUOUS LITERAL1
+SFE_BMV080_MODE_DUTY_CYCLE LITERAL1
