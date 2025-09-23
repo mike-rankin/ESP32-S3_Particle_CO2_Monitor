@@ -18,6 +18,7 @@ The board protrusion at the top allows all three sensors to sit in a row just ab
 
 Pricing for components (mostly from Digi-key):
 <br/>-1.65" Non-touch was purchased from BuyDisplay: https://www.youtube.com/watch?v=o0nff87zbJU $?.??
+* test
 <br/>-ESP32-S3-MINI-1-N8 $5.28
 <br/>-STCC4-D-R3 CO2 Sensor $8.27
 <br/>-SHT40-AD1B-R3 Temp/Humidity $1.80
