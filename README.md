@@ -17,10 +17,10 @@ The board protrusion at the top allows all three sensors to sit in a row just ab
 ![Image](https://github.com/user-attachments/assets/a10d1534-b7d7-421e-adf2-e8bb9022f8b4)
 
 Pricing for components (mostly from Digi-key):
-*-1.65" Non-touch was purchased from BuyDisplay: https://www.youtube.com/watch?v=o0nff87zbJU $?.??
+<br/>*-1.65" Non-touch was purchased from BuyDisplay: https://www.youtube.com/watch?v=o0nff87zbJU $?.??
 *-ESP32-S3-MINI-1-N8 $5.28
-*-STCC4-D-R3 CO2 Sensor $8.27
-*-SHT40-AD1B-R3 Temp/Humidity $1.80
+*<br/>-STCC4-D-R3 CO2 Sensor $8.27
+*<br/>-SHT40-AD1B-R3 Temp/Humidity $1.80
 *-BMV080 Particle Sensor $40.90
 
 This design is work in progress so a future revision might include:
