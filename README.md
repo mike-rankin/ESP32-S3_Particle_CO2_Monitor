@@ -23,3 +23,6 @@ Pricing for components mostly from Digi-key
 <br/>SHT40-AD1B-R3 Temp/Humidity $1.80
 <br/>BMV080 Particle Sensor $40.90
 
+This design is work in progress so a future revision might include:
+<br/>
+
