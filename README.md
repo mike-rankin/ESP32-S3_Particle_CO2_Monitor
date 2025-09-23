@@ -9,6 +9,8 @@ Previous designs used the PMSA003 that used a small fan to draw air in and a las
 
 ![Image](https://github.com/user-attachments/assets/e40246da-fd77-4ef6-bbfb-84fd3a0fd16f)
 
+The ESP32-S3 mini is slightly larger than the ESP32-C6 mini but was needed to compile the BMV080 code error free. Right now the example Arduino sketches ar enot compatible with the C6. Below I've used as few parts as possible to keep the design simple. 
+
 ![Image](https://github.com/user-attachments/assets/f80bc7f7-3e0d-45f6-b091-c78f25c5b918)
 ![Image](https://github.com/user-attachments/assets/7f08396c-15c4-4fbb-88d5-c476f8c2b8bd)
 ![Image](https://github.com/user-attachments/assets/a10d1534-b7d7-421e-adf2-e8bb9022f8b4)
