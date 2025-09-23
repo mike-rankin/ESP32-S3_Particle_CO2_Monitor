@@ -5,7 +5,7 @@ This project is another plug in usb-c wall charger type that I find clean, cable
 ![Image](https://github.com/user-attachments/assets/068908f2-491f-460d-baaa-7e56ccb6598f)
 
 Previous designs used to 
-
+![Image](https://github.com/user-attachments/assets/e40246da-fd77-4ef6-bbfb-84fd3a0fd16f)
 
 ![Image](https://github.com/user-attachments/assets/f80bc7f7-3e0d-45f6-b091-c78f25c5b918)
 ![Image](https://github.com/user-attachments/assets/7f08396c-15c4-4fbb-88d5-c476f8c2b8bd)
