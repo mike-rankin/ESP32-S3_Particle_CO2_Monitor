@@ -2,6 +2,7 @@
 ESP32-S3 based Air Quality Particle and CO2 Monitor
 
 This project is another plug in usb-c wall charger type that I find clean, cable free and convenient for my home. It uses an ultra small BMV080 particle sensor that allows for a much smaller project than ever before.
+
 ![Image](https://github.com/user-attachments/assets/068908f2-491f-460d-baaa-7e56ccb6598f)
 
 Previous designs used to 
